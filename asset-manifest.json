@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cloudie/static/css/main.e44b7236.css",
+    "main.js": "/cloudie/static/js/main.b8bd08b6.js",
+    "static/media/background.jpg": "/cloudie/static/media/background.24af1247c31d8beeaf93.jpg",
+    "index.html": "/cloudie/index.html",
+    "main.e44b7236.css.map": "/cloudie/static/css/main.e44b7236.css.map",
+    "main.b8bd08b6.js.map": "/cloudie/static/js/main.b8bd08b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e44b7236.css",
+    "static/js/main.b8bd08b6.js"
+  ]
+}
